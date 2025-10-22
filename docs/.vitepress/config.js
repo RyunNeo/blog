@@ -3,7 +3,7 @@ export default {
   base: '/blog/',
   // 站点级选项
   title: "前端逆光者", // 网站标题
-  description: "前端逆光者用来写博客的地方", // 网站描述
+  description: "记录生活，记录日常，记录学习，记录成长", // 网站描述
 
   themeConfig: {
     // 主题级选项
